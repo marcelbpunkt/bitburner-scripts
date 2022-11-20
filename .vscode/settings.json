@@ -1,0 +1,7 @@
+{
+    "bitburner.authToken": "d08TthDDZrcgUdzbWHc+MqKThIQRIKj7Q2H7koFJlEkkF3QUPbTmgb291LKX4tER",
+    "bitburner.fileWatcher.enable": true,
+    "bitburner.scriptRoot": "/home/marcel/git/bitburner-scripts",
+    "bitburner.showFileWatcherEnabledNotification": true,
+    "bitburner.showPushSuccessNotification": true
+}
