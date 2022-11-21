@@ -78,14 +78,14 @@ export const AUTO_SOLVE_HOST = "zer0";
  * Auto-ascend script and its dependencies
  */
 export const AUTO_ASCEND_SCRIPTS = [
-	"/gang/autoAscend.js",
+	"/gang/autoGang.js",
 	"/gang/gangConstants.js",
 	"constants.js"
 ];
 /**
  * The server on which to run the auto-ascend script
  */
-export const AUTO_ASCEND_HOST = "iron-gym";
+export const AUTO_ASCEND_HOST = "silver-helix";
 
 /**
  * The directory inside which all hack data is stored
